@@ -3,3 +3,5 @@ Initial Commit
 Initial Feature B
 
 Second Commit Feature B
+
+Checkout all alone
